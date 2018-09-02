@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Wild Glory</title>
+  <website>https://wildglory.github.io/</website>
+
+  <release-dates>
+    <release-date>8 March, 2018</release-date>
+  </release-dates>
+
+  <redirect-from>https://wildglory.github.io/</redirect-from>
+
+  <platforms>
+    <platform>
+      <name>Windows, Mac, Ubuntu</name>
+      <link>http://store.steampowered.com/app/802740/Wild_Glory/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>$2,99</value>
+    </price>
+    <price>
+      <currency>BRL</currency>
+      <value>R$6.49</value>
+    </price>
+	<price>
+      <currency>EUR</currency>
+      <value>€2.98</value>
+    </price>
+  </prices>
+
+  <description>
+    In Wild Glory gladiators battle to conquer the crowd and become the acclaimed Champion! Play unique game modes with up to EIGHT friends, and use several types of weapons, such as bombs, lions, force fields, and even the thunder hammer!
+	
+	Em Wild Glory, gladiadores batalham para conquistar a multidão e tornarem-se o aclamado campeão! Jogue modos de jogo únicos com até OITO amigos, use diversos  tipos de armas, tais como bombas, leões, campos de força e até mesmo o martelo do trovão!
+  </description>
+
+  <history>
+	Wild Glory as been developed over a year by a group of five dedicated students from Curitiba – Brazil. The Project has been made in the Laboratory of Eletronic Game Development from Pontifícia Universidade Católica do Paraná, and in its conclusion, it was submitted to the Brazilian games symposium festival of 2017. Later on, extremely grateful, the group of students received the Best Student Game AWARD! Catching a lot of attention and brand new passionate players!
+  
+    Wild Glory foi desenvolvido ao longo de um ano por um grupo de cinco estudantes dedicados de Curitiba – Brasil. O projeto foi construído no Laboratório de Jogos Eletrônicos da Pontifícia Universidade Católica do Paraná, e na sua conclusão foi inscrito para o simpósio brasileiro de jogos de 2017. Mais tarde, com muita alegria, o grupo de estudantes recebeu o prêmio de melhor jogo de estudantes do festival! Conquistando muita atenção e novos jogadores apaixonados!
+  </history>
+
+  <features>
+    <feature>Unique game modes!</feature>
+    <feature>Local multiplayer!</feature>
+    <feature>Up to EIGHT players.</feature>
+    <feature>Features Gladius Bots.</feature>
+    <feature>Multi-platform.</feature>
+    <feature>Several Achievements!</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Teaser Trailer</name>
+      <youtube>Stsn7qKdJaw</youtube>
+    </trailer>
+  </trailers>
+  
+  <widgets>
+    <steam>802740</steam>
+  </widgets>
+  
+  <awards>
+    <award>
+      <description>Best Student Game - SBGames 2017</description>
+      <info>SBGames; biggest game development academic event in Latin America.</info>
+    </award>
+  </awards>
+  
+  <credits>
+    <credit>
+      <person>Lucas Bressan</person>
+      <role>Lead Artist and Game Designer.</role>
+    </credit>
+    <credit>
+      <person>Lucas Demo</person>
+      <role>Programmer and Game Designer.</role>
+    </credit>
+	<credit>
+      <person>Leonardo Lima</person>
+      <role>Musician and Sound designer.</role>
+    </credit>
+	<credit>
+      <person>Jacqueline Kruk</person>
+      <role>Artist.</role>
+    </credit>
+	<credit>
+      <person>Glenda Kruk</person>
+      <role>Artist.</role>
+    </credit>
+	<credit>
+      <person>Rafael Fressato</person>
+      <role>Marketing and Community Manager.</role>
+    </credit>
+	<credit>
+      <person>Anderson Vermonde Hamilko</person>
+      <role>Producer.</role>
+    </credit>
+	<credit>
+      <person>Bruno Bulhões</person>
+      <role>Producer.</role>
+    </credit>
+  </credits>
+
+<socials>
+    <social>
+      <name>Twitter</name>
+      <link>https://twitter.com/Wild_Glory_game</link>
+    </social>
+    <social>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/wildglorygame/</link>
+    </social>
+</socials>
+
+<contacts>
+	<contact>
+      <name>Email</name>
+      <link>WildGloryGame@gmail.com</link>
+    </contact>
+</contacts>
+
+</product>
