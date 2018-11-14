@@ -2897,6 +2897,10 @@ fieldset[disabled] a.btn {
   border-radius: 0.3rem;
 }
 
+.inlineBlock {
+	display: inline-block;
+}
+
 .btn-lg-sub
 {
 	border: 0px;
