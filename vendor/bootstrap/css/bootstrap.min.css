@@ -2897,6 +2897,17 @@ fieldset[disabled] a.btn {
   border-radius: 0.3rem;
 }
 
+.btn-lg-sub
+{
+	border: 0px;
+	transition: noone;
+	padding: 0.5rem 1rem;
+	  font-size: 2rem;
+	  line-height: 1.5;
+	  border-radius: 0.3rem;
+	  hover: noone;
+}
+
 .btn-sm, .btn-group-sm > .btn {
   padding: 0.25rem 0.5rem;
   font-size: 0.875rem;
