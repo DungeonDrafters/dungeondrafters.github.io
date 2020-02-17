@@ -2427,14 +2427,14 @@ fieldset[disabled] a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #0c0c0c;
-  border-color: #bbbbbb;
+  background-color: #142521;
+  border-color: #142521;
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #000000;
-  border-color: #bbbbbb;
+  background-color: #327359;
+  border-color: #142521;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
