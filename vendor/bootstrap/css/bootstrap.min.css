@@ -457,7 +457,7 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 2.2rem;
+  font-size: 1.75rem;
 }
 
 h4, .h4 {
@@ -2427,14 +2427,14 @@ fieldset[disabled] a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #142521;
-  border-color: #142521;
+  background-color: #141925;
+  border-color: #05060a;
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #327359;
-  border-color: #142521;
+  background-color: #273964;
+  border-color: #1a2349;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
@@ -4220,7 +4220,7 @@ tbody.collapse.show {
 }
 
 .card-footer {
-  padding: 0.75rem 1.25rem;
+  padding: 0.65rem 1.05rem;
   background-color: rgba(0, 0, 0, 0.03);
   border-top: 1px solid rgba(0, 0, 0, 0.125);
 }
